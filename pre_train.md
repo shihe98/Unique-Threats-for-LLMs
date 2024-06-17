@@ -1,22 +1,23 @@
 # Pretrain LLMs
 ## Privcacy Risks
-* Private Data in Corpora
+* Private Data in Corpora ![Static Badge](https://img.shields.io/badge/Unique-red)
 1. *[ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
 2. *[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)* ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
 
-* Data Extraction Attack
+* Data Extraction Attack ![Static Badge](https://img.shields.io/badge/Common-red)
 1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
 2. *[ETHICIST: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://aclanthology.org/2023.acl-long.709/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
 3. *[Canary Extraction in Natural Language Understanding Models](https://arxiv.org/abs/2203.13920)* ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
 
 ## Security Risks
-1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-3. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-4. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-5. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-6. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
+* Toxic Data in Corpora ![Static Badge](https://img.shields.io/badge/Unique-red)
+1. *[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
+2. *[TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models](https://arxiv.org/abs/2306.11507)*
 
+* Data Extraction Attack ![Static Badge](https://img.shields.io/badge/Common-red)
+1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
+2. *[ETHICIST: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://aclanthology.org/2023.acl-long.709/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
+3. *[Canary Extraction in Natural Language Understanding Models](https://arxiv.org/abs/2203.13920)* ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
 ## Countermeasure
 1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
