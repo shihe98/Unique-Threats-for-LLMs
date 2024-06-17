@@ -13,6 +13,8 @@
 * Toxic Data in Corpora ![Static Badge](https://img.shields.io/badge/Unique-red)
 1. *[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
 2. *[TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models](https://arxiv.org/abs/2306.11507)*
+3. *[Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)* ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
+4. *[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
 
 * Data Extraction Attack ![Static Badge](https://img.shields.io/badge/Common-red)
 1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
