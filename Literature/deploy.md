@@ -9,9 +9,9 @@
 2. *[Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success](https://export.arxiv.org/abs/2307.06865v1)*
 
 **Reconstruction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
-1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
-2. *[ETHICIST: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://aclanthology.org/2023.acl-long.709/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-3. *[Canary Extraction in Natural Language Understanding Models](https://arxiv.org/abs/2203.13920)* ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
+1. *[Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence](https://arxiv.org/abs/2305.03010)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
+2. *[Text Embeddings Reveal (Almost) As Much As Text](https://aclanthology.org/2023.emnlp-main.765/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
+3. *[Language Model Inversion](https://arxiv.org/abs/2311.13647)*
 
 **Inference Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
 
