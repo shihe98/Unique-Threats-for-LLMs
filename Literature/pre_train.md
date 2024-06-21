@@ -1,6 +1,6 @@
 # Pretrain LLMs
 <p align="center">
-    <img src="../img/pre_map.png" alt="pre_train" width="900" height="235">
+    <img src="../img/pre_map.png" alt="pre_map" width="900" height="235">
 </p>
 
 ## Privcacy Risks
