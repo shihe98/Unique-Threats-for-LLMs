@@ -38,12 +38,12 @@
 3. [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679) ![Static Badge](https://img.shields.io/badge/ICLR'22-blue)
 4. [Differentially Private Language Models for Secure Data Sharing](https://aclanthology.org/2022.emnlp-main.323/) ![Static Badge](https://img.shields.io/badge/EMNLP'22-blue)
 5. [Membership Inference Attack Susceptibility of Clinical Language Models](https://arxiv.org/abs/2104.08305)
+
 **Security Defense**
 * *A. Corpora Cleaning for Toxic Data*
-1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-3. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-* *B. Privacy Pre-training*
-1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-3. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
+1. [ParaDetox: Detoxification with Parallel Data](https://aclanthology.org/2022.acl-long.469/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
+2. [Exploring Cross-lingual Text Detoxification with Large Multilingual Language Models](https://aclanthology.org/2022.acl-srw.26/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
+3. [Challenges in Detoxifying Language Models](https://aclanthology.org/2021.findings-emnlp.210/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
+* *B. Model-based Defense*
+1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://aclanthology.org/2021.emnlp-main.752/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
+2. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) ![Static Badge](https://img.shields.io/badge/RAID'19-blue)
