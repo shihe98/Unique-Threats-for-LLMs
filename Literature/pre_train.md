@@ -34,16 +34,16 @@
 2. [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) ![Static Badge](https://img.shields.io/badge/ICML'22-blue)
 3. [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487)
 * *B. Privacy Pre-training*
+1. [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)
+3. [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679) ![Static Badge](https://img.shields.io/badge/ICLR'22-blue)
+4. [Differentially Private Language Models for Secure Data Sharing](https://aclanthology.org/2022.emnlp-main.323/) ![Static Badge](https://img.shields.io/badge/EMNLP'22-blue)
+5. [Membership Inference Attack Susceptibility of Clinical Language Models](https://arxiv.org/abs/2104.08305)
+**Security Defense**
+* *A. Corpora Cleaning for Toxic Data*
 1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 3. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-**Security Defense**
-* *A. Corpora Cleaning for Toxic Data*
 * *B. Privacy Pre-training*
 1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 3. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-4. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-5. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-6. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
-
