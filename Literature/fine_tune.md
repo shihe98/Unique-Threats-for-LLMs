@@ -14,22 +14,17 @@ Since the privacy risks in fine-tuning scenario are the same as those discussed 
 2. *[Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org/abs/2311.14455)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
 3. *[RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models](https://arxiv.org/abs/2311.09641)*
 ## Countermeasure
-**Privacy Protection**
-* *A. Corpora Cleaning for Private Data*
-1. [Detecting Personal Information in Training Corpora: an Analysis](https://aclanthology.org/2023.trustnlp-1.18/) ![Static Badge](https://img.shields.io/badge/TRUSTNLP'23-blue)
-2. [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) ![Static Badge](https://img.shields.io/badge/ICML'22-blue)
-3. [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487)
-* *B. Privacy Pre-training*
-1. [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)
-3. [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679) ![Static Badge](https://img.shields.io/badge/ICLR'22-blue)
-4. [Differentially Private Language Models for Secure Data Sharing](https://aclanthology.org/2022.emnlp-main.323/) ![Static Badge](https://img.shields.io/badge/EMNLP'22-blue)
-5. [Membership Inference Attack Susceptibility of Clinical Language Models](https://arxiv.org/abs/2104.08305)
+**Input-based Defense**
+1. [Design and Evaluation of a Multi-Domain Trojan Detection Method on Deep Neural Networks](https://arxiv.org/abs/1911.10312) ![Static Badge](https://img.shields.io/badge/TDSC'22-blue)
+2. [Defending Against Stealthy Backdoor Attacks](https://arxiv.org/abs/2205.14246)
+3. [Rethinking Stealthiness of Backdoor Attack against NLP Models](https://aclanthology.org/2021.acl-long.431/) ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
 
-**Security Defense**
-* *A. Corpora Cleaning for Toxic Data*
-1. [ParaDetox: Detoxification with Parallel Data](https://aclanthology.org/2022.acl-long.469/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
-2. [Exploring Cross-lingual Text Detoxification with Large Multilingual Language Models](https://aclanthology.org/2022.acl-srw.26/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
-3. [Challenges in Detoxifying Language Models](https://aclanthology.org/2021.findings-emnlp.210/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
-* *B. Model-based Defense*
-1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://aclanthology.org/2021.emnlp-main.752/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
-2. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) ![Static Badge](https://img.shields.io/badge/RAID'19-blue)
+**Model-based Defense**
+1. [LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://arxiv.org/abs/2308.13904) ![Static Badge](https://img.shields.io/badge/NDSS'24-blue)
+2. [Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense](https://arxiv.org/abs/2202.05749) ![Static Badge](https://img.shields.io/badge/PMLR'22-blue)
+3. [PerD: Perturbation Sensitivity-based Neural Trojan Detection Framework on NLP Applications](https://arxiv.org/abs/2208.04943)
+
+**Training data-based Defense**
+1. [A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks]([https://arxiv.org/abs/2103.04264](https://arxiv.org/abs/2206.08514)) ![Static Badge](https://img.shields.io/badge/NLPS'22-blue)
+2. [BDDR: An Effective Defense Against Textual Backdoor Attacks](https://www.sciencedirect.com/science/article/abs/pii/S0167404821002571) ![Static Badge](https://img.shields.io/badge/Computers&Security'21-blue)
+3. [T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification](https://arxiv.org/abs/2103.04264) ![Static Badge](https://img.shields.io/badge/Usenix_Security'21-blue)
