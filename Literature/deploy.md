@@ -1,6 +1,6 @@
 # Deploy LLMs
 <p align="center">
-    <img src="../img/deploy_map.png" alt="deploy" width="900" height="350">
+    <img src="../img/deploy_map .png" alt="deploy" width="900" height="450">
 </p>
 
 ## Privcacy Risks
