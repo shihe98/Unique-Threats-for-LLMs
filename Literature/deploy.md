@@ -35,11 +35,13 @@
 3. *[Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)* ![Static Badge](https://img.shields.io/badge/CCS'23-blue)'
 
 ## Security Risks
-**Toxic Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
-2. *[TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models](https://arxiv.org/abs/2306.11507)*
-3. *[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-4. *[Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)* ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
+**Prompt Injection Attack** ![Static Badge](https://img.shields.io/badge/Unique-red)
+1. *[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
+2. *[Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)* ![Static Badge](https://img.shields.io/badge/AISec'23-blue)
+3. *[Prompt Packer: Deceiving LLMs through Compositional Instruction with Hidden Attacks](https://arxiv.org/abs/2310.10077)*
+4. *[Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks](https://arxiv.org/abs/2302.05733)* ![Static Badge](https://img.shields.io/badge/New_Frontiers_in_Adv'23-blue)
+5. *[Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)*
+6. *[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)* ![Static Badge](https://img.shields.io/badge/NeurIPS_ML_Safety_Workshop'22-blue)
 
 **Poison Attack in Pre-training** ![Static Badge](https://img.shields.io/badge/Common-red)<br>
 * *A. Data Poisoning*
