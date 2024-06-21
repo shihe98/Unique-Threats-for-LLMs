@@ -1,6 +1,6 @@
-# Pretrain LLMs
+# Deploy LLMs
 <p align="center">
-    <img src="../img/agent_map.png" alt="agent" width="900" height="350">
+    <img src="../img/deploy_map.png" alt="deploy" width="900" height="350">
 </p>
 
 ## Privcacy Risks
