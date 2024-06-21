@@ -10,9 +10,9 @@ Since the privacy risks in fine-tuning scenario are the same as those discussed 
 5. *[BadPrompt: Backdoor Attacks on Continuous Prompts](https://arxiv.org/abs/2211.14719)* ![Static Badge](https://img.shields.io/badge/NIPS'22-blue)
 
 **Poison Alignment-tuning** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger](https://aclanthology.org/2024.naacl-long.165/)* ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
-2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
-3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)
+1. *[Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data](https://arxiv.org/abs/2404.05530)*
+2. *[Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org/abs/2311.14455)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
+3. *[RLHFPoison: Reward Poisoning Attack for Reinforcement Learning with Human Feedback in Large Language Models](https://arxiv.org/abs/2311.09641)*
 ## Countermeasure
 **Privacy Protection**
 * *A. Corpora Cleaning for Private Data*
