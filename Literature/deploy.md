@@ -80,11 +80,14 @@
 3. [MPCFormer: fast, performant and private Transformer inference with MPC](https://arxiv.org/abs/2211.01452) ![Static Badge](https://img.shields.io/badge/ICLR'22-blue)
 
 **Security Defense**
-* *A. Prompt Engineering*
+* *A. Output Detection and Processing*
+1. [SneakyPrompt: Jailbreaking Text-to-image Generative Models](https://arxiv.org/abs/2305.12082) ![Static Badge](https://img.shields.io/badge/IEEE_Symposium_on_Security_and_Privacy'24-blue)
+2. [Jailbreaker in Jail: Moving Target Defense for Large Language Models](https://arxiv.org/abs/2310.02417) ![Static Badge](https://img.shields.io/badge/MTD_Workshop'23-blue)
+* *B. Prompt Engineering*
 1. [ParaDetox: Detoxification with Parallel Data](https://aclanthology.org/2022.acl-long.469/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
 2. [Exploring Cross-lingual Text Detoxification with Large Multilingual Language Models](https://aclanthology.org/2022.acl-srw.26/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
 3. [Challenges in Detoxifying Language Models](https://aclanthology.org/2021.findings-emnlp.210/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
-* *B. Robustness Training*
+* *C. Robustness Training*
 1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://aclanthology.org/2021.emnlp-main.752/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
 2. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) ![Static Badge](https://img.shields.io/badge/RAID'19-blue)
 
