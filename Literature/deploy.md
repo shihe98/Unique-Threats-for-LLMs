@@ -5,8 +5,8 @@
 
 ## Privcacy Risks
 **Prompt Extraction Attack** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[]()* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
-2. *[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)* ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
+1. *[Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)*
+2. *[Prompts Should not be Seen as Secrets: Systematically Measuring Prompt Extraction Attack Success](https://export.arxiv.org/abs/2307.06865v1)*
 
 **Reconstruction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
 1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
