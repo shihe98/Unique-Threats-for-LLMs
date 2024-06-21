@@ -45,12 +45,18 @@
 
 **Jailbreak Attack** ![Static Badge](https://img.shields.io/badge/Common-red)<br>
 * *A. Single-step Jailbreak*
-1. *[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)* ![Static Badge](https://img.shields.io/badge/NDSS'24-blue)
-2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
-3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)
+1. *[FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2309.05274)* ![Static Badge](https://img.shields.io/badge/ICASSP'24-blue)
+2. *[GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://arxiv.org/abs/2308.06463)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
+3. *[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)* ![Static Badge](https://img.shields.io/badge/NDSS'24-blue)
+4. *[Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://arxiv.org/abs/2305.13860)*
+5. *[Role-Play with Large Language Models](https://arxiv.org/abs/2305.16367)* ![Static Badge](https://img.shields.io/badge/Nature'23-blue)
+6. *["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://arxiv.org/abs/2308.03825)*
+7. *[Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://arxiv.org/abs/2310.06387)*
+8. *[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)*
+
 * *B. Multi-step Jailbreak*
-1. *[BadEdit: Backdooring large language models by model editing](https://arxiv.org/abs/2403.13355)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
-2. *[UOR: Universal Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2305.09574)*
+1. *[Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass Safety Filters of Text-to-Image Models](https://arxiv.org/abs/2312.07130)*
+2. *[Multi-step Jailbreaking Privacy Attacks on ChatGPT](https://arxiv.org/abs/2304.05197)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
 
 ## Countermeasure
 **Privacy Protection**
