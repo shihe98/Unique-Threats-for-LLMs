@@ -4,9 +4,9 @@
 </p>
 
 ## Privcacy Risks
-**Private Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
-2. *[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)* ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
+**Knowledge Stealing Attack** ![Static Badge](https://img.shields.io/badge/Unique-red)
+1. *[Privacy Implications of Retrieval-Based Language Models](https://arxiv.org/abs/2305.14888)*
+2. *[The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2402.16893)*
 
 **Data Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
 1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
