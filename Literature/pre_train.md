@@ -1,4 +1,7 @@
 # Pretrain LLMs
+<p align="center">
+    <img src="../img/pre_map.png" alt="pre_train" width="800" height="210">
+</p>
 ## Privcacy Risks
 **Private Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
 1. *[ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
