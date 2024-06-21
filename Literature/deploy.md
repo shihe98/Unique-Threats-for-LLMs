@@ -58,6 +58,12 @@
 1. *[Divide-and-Conquer Attack: Harnessing the Power of LLM to Bypass Safety Filters of Text-to-Image Models](https://arxiv.org/abs/2312.07130)*
 2. *[Multi-step Jailbreaking Privacy Attacks on ChatGPT](https://arxiv.org/abs/2304.05197)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
 
+**Adversarial Example Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+1. *[Are aligned neural networks adversarially aligned?](https://arxiv.org/abs/2306.15447)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
+2. *[Black Box Adversarial Prompting for Foundation Models](https://arxiv.org/abs/2302.04237)*
+3. *[TransFool: An Adversarial Attack against Neural Machine Translation Models](https://arxiv.org/abs/2302.00944)* ![Static Badge](https://img.shields.io/badge/TMLR'23-blue)
+4. *[Adversarial Demonstration Attacks on Large Language Models](https://arxiv.org/abs/2305.14950)*
+
 ## Countermeasure
 **Privacy Protection**
 * *A. Corpora Cleaning for Private Data*
