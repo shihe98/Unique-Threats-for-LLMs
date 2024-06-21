@@ -3,12 +3,11 @@
 Since the privacy risks in fine-tuning scenario are the same as those discussed in pre-training scenario, they are not listed here.
 ## Security Risks
 **Poison Instruction-tuning** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
-2. *[Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2306.11507)* ![Static Badge](https://img.shields.io/badge/AdvML_Frontiers_Workshop'23-blue)
-3. *[BadPrompt: Backdoor Attacks on Continuous Prompts](https://arxiv.org/abs/2211.14719)* ![Static Badge](https://img.shields.io/badge/NIPS'22-blue)
-4. 
-5. *[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
-6. *[Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)* ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
+1. *[PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models](https://arxiv.org/abs/2310.12439)* ![Static Badge](https://img.shields.io/badge/ICASSP'24-blue)
+2. *[Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944)* ![Static Badge](https://img.shields.io/badge/ICML'23-blue)
+3. *[On the Exploitability of Instruction Tuning](https://arxiv.org/abs/2306.17194)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
+4. *[Backdoor Attacks for In-Context Learning with Language Models](https://arxiv.org/abs/2306.11507)* ![Static Badge](https://img.shields.io/badge/AdvML_Frontiers_Workshop'23-blue)
+5. *[BadPrompt: Backdoor Attacks on Continuous Prompts](https://arxiv.org/abs/2211.14719)* ![Static Badge](https://img.shields.io/badge/NIPS'22-blue)
 
 **Poison Alignment-tuning** ![Static Badge](https://img.shields.io/badge/Unique-red)
 1. *[ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger](https://aclanthology.org/2024.naacl-long.165/)* ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
