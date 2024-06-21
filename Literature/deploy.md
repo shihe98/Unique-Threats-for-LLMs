@@ -23,6 +23,8 @@
 2. *[You Don't Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers' Private Personas](https://arxiv.org/abs/2205.10228)* ![Static Badge](https://img.shields.io/badge/NAACL'22-blue)
 
 **Data Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+1. *[Beyond Memorization: Violating Privacy Via Inference with Large Language Models](https://arxiv.org/abs/2310.07298)* ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
+2. *[You Don't Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers' Private Personas](https://arxiv.org/abs/2205.10228)* ![Static Badge](https://img.shields.io/badge/NAACL'22-blue)
 
 **Model Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
 
