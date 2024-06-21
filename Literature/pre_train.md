@@ -22,9 +22,11 @@
 2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
 3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)
 * B. Model Poisoning
-1. *[ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger](https://aclanthology.org/2024.naacl-long.165/)* ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
-2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
-3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)
+1. *[BadEdit: Backdooring large language models by model editing](https://arxiv.org/abs/2403.13355)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
+2. *[UOR: Universal Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2305.09574)*
+3. *[Training-free Lexical Backdoor Attacks on Language Models](https://arxiv.org/abs/2302.04116)* ![Static Badge](https://img.shields.io/badge/WWW'23-blue)
+4. *[Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)* ![Static Badge](https://img.shields.io/badge/ACL'20-blue)
+5. *[Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)* ![Static Badge](https://img.shields.io/badge/ACL'20-blue)
 ## Countermeasure
 1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
