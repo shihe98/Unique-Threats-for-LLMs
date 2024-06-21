@@ -16,11 +16,12 @@
 3. *[Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)* ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
 4. *[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
 
-* Poison Attack in Pre-training ![Static Badge](https://img.shields.io/badge/Common-red)
-(1) Data Poisoning
-1. *[]()*
-2. *[]()* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-(2) Model Poisoning
+* Poison Attack in Pre-training ![Static Badge](https://img.shields.io/badge/Common-red)<br>
+**A. Data Poisoning**
+1. *[ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger](https://aclanthology.org/2024.naacl-long.165/)* ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
+2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
+3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)<br>
+**B. Model Poisoning**
 ## Countermeasure
 1. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
 2. [A Comprehensive Study on Machine Learning](https://example.com/paper.pdf)
