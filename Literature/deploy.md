@@ -84,10 +84,13 @@
 1. [SneakyPrompt: Jailbreaking Text-to-image Generative Models](https://arxiv.org/abs/2305.12082) ![Static Badge](https://img.shields.io/badge/IEEE_Symposium_on_Security_and_Privacy'24-blue)
 2. [Jailbreaker in Jail: Moving Target Defense for Large Language Models](https://arxiv.org/abs/2310.02417) ![Static Badge](https://img.shields.io/badge/MTD_Workshop'23-blue)
 * *B. Prompt Engineering*
-1. [ParaDetox: Detoxification with Parallel Data](https://aclanthology.org/2022.acl-long.469/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
-2. [Exploring Cross-lingual Text Detoxification with Large Multilingual Language Models](https://aclanthology.org/2022.acl-srw.26/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
-3. [Challenges in Detoxifying Language Models](https://aclanthology.org/2021.findings-emnlp.210/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
-* *C. Robustness Training*
-1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://aclanthology.org/2021.emnlp-main.752/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
-2. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) ![Static Badge](https://img.shields.io/badge/RAID'19-blue)
+1. [Baseline Defenses for Adversarial Attacks Against Aligned Language Models](https://arxiv.org/abs/2309.00614)
+2. [Text Adversarial Purification as Defense against Adversarial Attacks](https://arxiv.org/abs/2203.14207) ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
+3. [SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks](https://arxiv.org/abs/2310.03684)
+4. [Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://arxiv.org/abs/2310.06387)
 
+* *C. Robustness Training*
+1. [Safer-Instruct: Aligning Language Models with Automated Preference Data](https://arxiv.org/abs/2311.08685) ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
+2. [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/abs/2305.03047) ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
+3. [Safety-Tuned LLaMAs: Lessons From Improving the Safety of Large Language Models that Follow Instructions](https://arxiv.org/abs/2309.07875) ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
+4. [How Should Pre-Trained Language Models Be Fine-Tuned Towards Adversarial Robustness?](https://arxiv.org/abs/2112.11668) ![Static Badge](https://img.shields.io/badge/NIPS'21-blue)
