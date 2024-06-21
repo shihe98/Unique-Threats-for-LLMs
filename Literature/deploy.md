@@ -66,22 +66,25 @@
 
 ## Countermeasure
 **Privacy Protection**
-* *A. Corpora Cleaning for Private Data*
-1. [Detecting Personal Information in Training Corpora: an Analysis](https://aclanthology.org/2023.trustnlp-1.18/) ![Static Badge](https://img.shields.io/badge/TRUSTNLP'23-blue)
-2. [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://arxiv.org/abs/2202.06539) ![Static Badge](https://img.shields.io/badge/ICML'22-blue)
-3. [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487)
-* *B. Privacy Pre-training*
-1. [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)
-3. [Large Language Models Can Be Strong Differentially Private Learners](https://arxiv.org/abs/2110.05679) ![Static Badge](https://img.shields.io/badge/ICLR'22-blue)
-4. [Differentially Private Language Models for Secure Data Sharing](https://aclanthology.org/2022.emnlp-main.323/) ![Static Badge](https://img.shields.io/badge/EMNLP'22-blue)
-5. [Membership Inference Attack Susceptibility of Clinical Language Models](https://arxiv.org/abs/2104.08305)
+* *A. Differential Privacy*
+1. [Just Fine-tune Twice: Selective Differential Privacy for Large Language Models](https://aclanthology.org/2022.emnlp-main.425/) ![Static Badge](https://img.shields.io/badge/EMNLP'22-blue)
+2. [SeqPATE: Differentially Private Text Generation via Knowledge Distillation](https://openreview.net/pdf?id=ZG5Bi1N4V0U) ![Static Badge](https://img.shields.io/badge/NIPS'22-blue)
+3. [Flocks of Stochastic Parrots: Differentially Private Prompt Learning for Large Language Models](https://arxiv.org/abs/2305.15594) ![Static Badge](https://img.shields.io/badge/NIPS'24-blue)
+4. [Privacy-Preserving Prompt Tuning for Large Language Model Services](https://arxiv.org/abs/2305.06212)
+5. [Differentially Private Decoding in Large Language Models](https://arxiv.org/abs/2205.13621)
+* *C. Alignment Tuning*
+1. [Large Language Models Can Be Good Privacy Protection Learners](https://arxiv.org/abs/2310.02469)
+* *D. Secure Computing*
+1. [PUMA: Secure Inference of LLaMA-7B in Five Minutes](https://arxiv.org/abs/2307.12533)
+2. [THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption](https://aclanthology.org/2022.findings-acl.277/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
+3. [MPCFormer: fast, performant and private Transformer inference with MPC](https://arxiv.org/abs/2211.01452) ![Static Badge](https://img.shields.io/badge/ICLR'22-blue)
 
 **Security Defense**
-* *A. Corpora Cleaning for Toxic Data*
+* *A. Prompt Engineering*
 1. [ParaDetox: Detoxification with Parallel Data](https://aclanthology.org/2022.acl-long.469/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
 2. [Exploring Cross-lingual Text Detoxification with Large Multilingual Language Models](https://aclanthology.org/2022.acl-srw.26/) ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
 3. [Challenges in Detoxifying Language Models](https://aclanthology.org/2021.findings-emnlp.210/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
-* *B. Model-based Defense*
+* *B. Robustness Training*
 1. [ONION: A Simple and Effective Defense Against Textual Backdoor Attacks](https://aclanthology.org/2021.emnlp-main.752/) ![Static Badge](https://img.shields.io/badge/EMNLP'21-blue)
 2. [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185) ![Static Badge](https://img.shields.io/badge/RAID'19-blue)
 
