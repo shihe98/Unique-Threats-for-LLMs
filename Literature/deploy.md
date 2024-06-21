@@ -28,7 +28,12 @@
 3. *[Ethicist: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://arxiv.org/abs/2307.04401)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)'
 4. *[You Don't Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers' Private Personas](https://arxiv.org/abs/2205.10228)* ![Static Badge](https://img.shields.io/badge/NAACL'22-blue)'
 5. *[Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)* ![Static Badge](https://img.shields.io/badge/Usenix_Security'21-blue)
+
 **Model Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+1. *[Reverse-Engineering Decoding Strategies Given Blackbox Access to a Language Generation System](https://aclanthology.org/2023.inlg-main.28/)* ![Static Badge](https://img.shields.io/badge/INLG'23-blue)'
+2. *[On the Feasibility of Specialized Ability Stealing for Large Language Code Models](https://export.arxiv.org/abs/2303.03012v1)*
+3. *[Stealing the Decoding Algorithms of Language Models](https://arxiv.org/abs/2303.04729)* ![Static Badge](https://img.shields.io/badge/CCS'23-blue)'
+
 ## Security Risks
 **Toxic Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
 1. *[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
