@@ -16,7 +16,7 @@
 3. *[Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)* ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
 4. *[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
 
-* Data Extraction Attack ![Static Badge](https://img.shields.io/badge/Common-red)
+* Poison Attack in Pre-training ![Static Badge](https://img.shields.io/badge/Common-red)
 1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
 2. *[ETHICIST: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://aclanthology.org/2023.acl-long.709/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
 3. *[Canary Extraction in Natural Language Understanding Models](https://arxiv.org/abs/2203.13920)* ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
