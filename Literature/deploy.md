@@ -14,6 +14,13 @@
 3. *[Language Model Inversion](https://arxiv.org/abs/2311.13647)*
 
 **Inference Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+* *A. Membership Inference*
+1. *[Membership Inference Attacks against Language Models via Neighbourhood Comparison](https://arxiv.org/abs/2305.18462)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
+2. *[TMI! Finetuned Models Leak Private Information from their Pretraining Data](https://arxiv.org/abs/2306.01181)*
+3. *[Quantifying Privacy Risks of Masked Language Models Using Membership Inference Attacks](https://arxiv.org/abs/2203.03929)* ![Static Badge](https://img.shields.io/badge/EMNLP'22-blue)
+* *B. Attribute Inference*
+1. *[Beyond Memorization: Violating Privacy Via Inference with Large Language Models](https://arxiv.org/abs/2310.07298)* ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
+2. *[You Don't Know My Favorite Color: Preventing Dialogue Representations from Revealing Speakers' Private Personas](https://arxiv.org/abs/2205.10228)* ![Static Badge](https://img.shields.io/badge/NAACL'22-blue)
 
 **Data Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
 
