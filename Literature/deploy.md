@@ -43,17 +43,15 @@
 5. *[Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/abs/2306.05499)*
 6. *[Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/abs/2211.09527)* ![Static Badge](https://img.shields.io/badge/NeurIPS_ML_Safety_Workshop'22-blue)
 
-**Poison Attack in Pre-training** ![Static Badge](https://img.shields.io/badge/Common-red)<br>
-* *A. Data Poisoning*
-1. *[ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger](https://aclanthology.org/2024.naacl-long.165/)* ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
+**Jailbreak Attack** ![Static Badge](https://img.shields.io/badge/Common-red)<br>
+* *A. Single-step Jailbreak*
+1. *[MasterKey: Automated Jailbreak Across Multiple Large Language Model Chatbots](https://arxiv.org/abs/2307.08715)* ![Static Badge](https://img.shields.io/badge/NDSS'24-blue)
 2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
 3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)
-* *B. Model Poisoning*
+* *B. Multi-step Jailbreak*
 1. *[BadEdit: Backdooring large language models by model editing](https://arxiv.org/abs/2403.13355)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
 2. *[UOR: Universal Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2305.09574)*
-3. *[Training-free Lexical Backdoor Attacks on Language Models](https://arxiv.org/abs/2302.04116)* ![Static Badge](https://img.shields.io/badge/WWW'23-blue)
-4. *[BITE: Textual Backdoor Attacks with Iterative Trigger Injection](https://aclanthology.org/2023.acl-long.725/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-5. *[Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)* ![Static Badge](https://img.shields.io/badge/ACL'20-blue)
+
 ## Countermeasure
 **Privacy Protection**
 * *A. Corpora Cleaning for Private Data*
