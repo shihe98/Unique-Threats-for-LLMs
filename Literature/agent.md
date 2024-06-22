@@ -34,13 +34,12 @@ Malicious agents can interact harmful content with other agents, affecting their
 Deploying LLM-based agents faces similar security threats that exist in deploying LLMs scenario.
 ## Countermeasure
 **Privacy Protection**
-* *A. Corpora Cleaning for Private Data*
-
-* *B. Privacy Pre-training*
-
+* *A. Memorized Data.* Defenders can identify PII and use data masking techniques to hide sensitive information, thereby reducing the risk of PII leakage.
+* *B. Output.* Defenders can implement filtering and auditing processes to prevent sensitive information from being transmitted to other entities.
+* *C. Authority Management.* Defenders can establish clear controls for private data access, setting access permissions for different roles within multi-agent systems.
+* *D. Real-time Feedback.* Defenders can dynamically monitor and adjust output results to mitigate privacy risks caused by unauthorized interactions.
 
 **Security Defense**
-* *A. Corpora Cleaning for Toxic Data*
-
-* *B. Model-based Defense*
-
+* *A. Input Processing.* Defenders can process prompts to detect and defeat jailbreak attacks targeting LLM-based agents.
+* *B. Model Processing.* Defenders can employ adversarial training to improve the robustness of LLM-based agents against jailbreak attacks.
+* *C. Agent Processing.* Defenders can establish multi-level consistency frameworks in multi-agent systems, ensuring alignment with human values. For role attacks, defenders can design robust filters to detect malicious agents based on role attributes, improving system safety. In constraining the high-level agent can prevent subordinate agents from producing harmful behaviors.
