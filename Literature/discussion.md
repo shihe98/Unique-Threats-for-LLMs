@@ -24,16 +24,13 @@
 6. *[Robust Distortion-free Watermarks for Language Models](https://arxiv.org/abs/2307.15593)* ![Static Badge](https://img.shields.io/badge/TMLR'23-red)
 ## Machine Unlearning for LLMs
 1. *[Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)* ![Static Badge](https://img.shields.io/badge/ACL'24-red)
-2. *[The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)*
-3. *[Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)*
-4. *[Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)*
-5. *[Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)*
-6. *[Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)*
-7. *[Machine unlearning for generative AI](https://www.ingentaconnect.com/contentone/hsp/airwa/2024/00000003/00000001/art00005)*
-8. *[Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)* ![Static Badge](https://img.shields.io/badge/Socially_Responsible_Language_Modelling_Research'23-red
-
-
-
-
-
+2. *[Machine Unlearning of Pre-trained Large Language Models](https://arxiv.org/abs/2402.15159)* ![Static Badge](https://img.shields.io/badge/ACL'24-red)
+3. *[The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)*
+4. *[Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.10557)*
+5. *[Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)*
+6. *[Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)*
+7. *[Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)*
+8. *[Machine unlearning for generative AI](https://www.ingentaconnect.com/contentone/hsp/airwa/2024/00000003/00000001/art00005)*
+9. *[Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)*
+10. *[Machine Unlearning in Large Language Models](https://arxiv.org/abs/2405.15152)*
 
