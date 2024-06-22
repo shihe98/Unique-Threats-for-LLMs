@@ -9,6 +9,7 @@
 2. **The multi-agent system faces more privacy risks** due to high-frequency interactions. Some agents may access sensitive data beyond their permission scope or expose sensitive information to agents who should not access it. An attacker can access private information across the system by compromising one agent.
 
 **Agent Interaction** ![Static Badge](https://img.shields.io/badge/Unique-red)
+
 Data transmission between agents can be stolen, leading to privacy leakage. The interactions are not transparent, so it is hard to supervise this generated information.
 1. *[Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)*
 
