@@ -23,6 +23,15 @@
 5. *[A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)* ![Static Badge](https://img.shields.io/badge/ICML'23-red)
 6. *[Robust Distortion-free Watermarks for Language Models](https://arxiv.org/abs/2307.15593)* ![Static Badge](https://img.shields.io/badge/TMLR'23-red)
 ## Machine Unlearning for LLMs
-1. *[Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)*
-2. *[Machine unlearning for generative AI](https://www.ingentaconnect.com/contentone/hsp/airwa/2024/00000003/00000001/art00005)*
-3. *[Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)* ![Static Badge](https://img.shields.io/badge/Socially_Responsible_Language_Modelling_Research'23-red)
+1. *[Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)* ![Static Badge](https://img.shields.io/badge/ACL'24-red)
+2. *[The Frontier of Data Erasure: Machine Unlearning for Large Language Models](https://arxiv.org/abs/2403.15779)*
+3. *[Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)*
+4. *[Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/abs/2402.08787)*
+5. *[Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238)*
+6. *[Machine unlearning for generative AI](https://www.ingentaconnect.com/contentone/hsp/airwa/2024/00000003/00000001/art00005)*
+7. *[Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)* ![Static Badge](https://img.shields.io/badge/Socially_Responsible_Language_Modelling_Research'23-red
+
+
+
+
+
