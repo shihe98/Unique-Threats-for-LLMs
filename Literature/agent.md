@@ -13,27 +13,25 @@
 Data transmission between agents can be stolen, leading to privacy leakage. The interactions are not transparent, so it is hard to supervise this generated information.
 1. *[Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)*
 
-**Prompt Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+**Prompt Extraction Attack & Various Privacy Attacks** ![Static Badge](https://img.shields.io/badge/Common-red)
 
-**Various Privacy Attacks** ![Static Badge](https://img.shields.io/badge/Common-red)
+Deploying LLM-based agents faces similar privacy threats that exist in deploying LLMs scenario.
 ## Security Risks
-**Toxic Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
-2. *[TrustGPT: A Benchmark for Trustworthy and Responsible Large Language Models](https://arxiv.org/abs/2306.11507)*
-3. *[On Second Thought, Let's Not Think Step by Step! Bias and Toxicity in Zero-Shot Reasoning](https://arxiv.org/abs/2212.08061)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-4. *[Probing Toxic Content in Large Pre-Trained Language Models](https://aclanthology.org/2021.acl-long.329/)* ![Static Badge](https://img.shields.io/badge/ACL'21-blue)
+**Malicious Agent** ![Static Badge](https://img.shields.io/badge/Unique-red)
+1. Attackers can modify the role settings of victim agents, causing them to exhibit harmful behaviors.
+2. The multi-agent system faces the threat of system-level attacks that can modify the role settings of the entire system.
 
-**Poison Attack in Pre-training** ![Static Badge](https://img.shields.io/badge/Common-red)<br>
-* *A. Data Poisoning*
-1. *[ChatGPT as an Attack Tool: Stealthy Textual Backdoor Attack via Blackbox Generative Model Trigger](https://aclanthology.org/2024.naacl-long.165/)* ![Static Badge](https://img.shields.io/badge/NAACL'24-blue)
-2. *[Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models](https://aclanthology.org/2023.emnlp-main.757/)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
-3. *[Concealed Data Poisoning Attacks on NLP Models](https://aclanthology.org/2021.naacl-main.13/)* ![Static Badge](https://img.shields.io/badge/NAACL'21-blue)
-* *B. Model Poisoning*
-1. *[BadEdit: Backdooring large language models by model editing](https://arxiv.org/abs/2403.13355)* ![Static Badge](https://img.shields.io/badge/ICLR'24-blue)
-2. *[UOR: Universal Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/abs/2305.09574)*
-3. *[Training-free Lexical Backdoor Attacks on Language Models](https://arxiv.org/abs/2302.04116)* ![Static Badge](https://img.shields.io/badge/WWW'23-blue)
-4. *[BITE: Textual Backdoor Attacks with Iterative Trigger Injection](https://aclanthology.org/2023.acl-long.725/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-5. *[Weight Poisoning Attacks on Pre-trained Models](https://arxiv.org/abs/2004.06660)* ![Static Badge](https://img.shields.io/badge/ACL'20-blue)
+**Agent Communication** ![Static Badge](https://img.shields.io/badge/Unique-red)
+
+Malicious agents can interact harmful content with other agents, affecting their behavior in a domino effect.
+1. *[Evil Geniuses: Delving into the Safety of LLM-based Agents](https://arxiv.org/abs/2311.11855)*
+
+**Backdoor Attacks** ![Static Badge](https://img.shields.io/badge/Common-red)
+1. *[Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents](https://arxiv.org/abs/2402.11208)*
+
+**Prompt Engineering Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+
+Deploying LLM-based agents faces similar security threats that exist in deploying LLMs scenario.
 ## Countermeasure
 **Privacy Protection**
 * *A. Corpora Cleaning for Private Data*
