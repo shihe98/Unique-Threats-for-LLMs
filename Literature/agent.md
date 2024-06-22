@@ -4,15 +4,17 @@
 </p>
 
 ## Privcacy Risks
-**Private Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
-1. *[ProPILE: Probing Privacy Leakage in Large Language Models](https://arxiv.org/abs/2307.01881)* ![Static Badge](https://img.shields.io/badge/NIPS'23-blue)
-2. *[Quantifying Memorization Across Neural Language Models](https://arxiv.org/abs/2202.07646)* ![Static Badge](https://img.shields.io/badge/ICLR'23-blue)
+**Malicious Agent** ![Static Badge](https://img.shields.io/badge/Unique-red)
+1. The agent system may memorize user interaction history, allowing malicious users to steal private information through **jailbreak and prompt injection attacks**.
+2. **The multi-agent system faces more privacy risks** due to high-frequency interactions. Some agents may access sensitive data beyond their permission scope or expose sensitive information to agents who should not access it. An attacker can access private information across the system by compromising one agent.
 
-**Data Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
-1. *[Scalable Extraction of Training Data from (Production) Language Models](https://arxiv.org/abs/2311.17035)*
-2. *[ETHICIST: Targeted Training Data Extraction Through Loss Smoothed Soft Prompting and Calibrated Confidence Estimation](https://aclanthology.org/2023.acl-long.709/)* ![Static Badge](https://img.shields.io/badge/ACL'23-blue)
-3. *[Canary Extraction in Natural Language Understanding Models](https://arxiv.org/abs/2203.13920)* ![Static Badge](https://img.shields.io/badge/ACL'22-blue)
+**Agent Interaction** ![Static Badge](https://img.shields.io/badge/Unique-red)
+Data transmission between agents can be stolen, leading to privacy leakage. The interactions are not transparent, so it is hard to supervise this generated information.
+1. *[Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security](https://arxiv.org/abs/2401.05459)*
 
+**Prompt Extraction Attack** ![Static Badge](https://img.shields.io/badge/Common-red)
+
+**Various Privacy Attacks** ![Static Badge](https://img.shields.io/badge/Common-red)
 ## Security Risks
 **Toxic Data in Corpora** ![Static Badge](https://img.shields.io/badge/Unique-red)
 1. *[Toxicity in ChatGPT: Analyzing Persona-assigned Language Models](https://arxiv.org/abs/2304.05335)* ![Static Badge](https://img.shields.io/badge/EMNLP'23-blue)
